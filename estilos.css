@@ -1,0 +1,25 @@
+/* estilos.css */
+
+/* Estilos para el body */
+body {
+    font-family: Arial, sans-serif;  /* Establece una fuente clara y legible */
+    background-color: #43a36b;      /* Fondo claro para toda la página */
+    color: #c2ee4a;                  /* Color de texto oscuro */
+    margin: 0;
+    padding: 0;
+}
+
+/* Estilo para el encabezado h1 */
+h1 {
+    color: #4CAF50;                  /* Color verde para el encabezado */
+    text-align: center;              /* Centra el texto */
+    margin-top: 50px;                /* Agrega espacio en la parte superior */
+}
+
+/* Estilo para el párrafo p */
+p {
+    font-size: 18px;                 /* Tamaño de fuente más grande para el párrafo */
+    line-height: 1.6;                /* Mejor legibilidad con mayor espacio entre líneas */
+    text-align: center;              /* Centra el párrafo */
+    margin-top: 20px;                /* Espacio encima del párrafo */
+}
